@@ -1,46 +1,35 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<style>
-	#footer{
-		padding-top: 200px;
-		padding-left: 480px;
-
-	}
-</style>
-
 </head>
 <body> 
-	<marquee width="100%" bgcolor="skyblue" behavior="alternate" scrollamount="5"><h1><b><i>Above Average contact page<b><i></h1></marquee>
-		<hr color="gray" size="7">
-	
+	<marquee width="100%" bgcolor="skyblue" behavior="alternate" scrollamount="10"><h1><b><i>WELCOME TO OUR CONTACT PAGE<b><i></h1></marquee>
+		<hr color="orange" size="10">
+		<center><img src="22.png" height="8%" width="8%" align="center"></center>
 	<div>
-		<p><b>FOR MORE INFO CONTACT US THROUGH:<br></b></p>
+		<p><b>CONTACT US THROUGH:<br></b></p>
 				   
-					<a href="https://www.facebook.com/paul kunambi"><img src="fbi.png" height="25" width="25" /></a><br>
+					<a href="https://www.facebook.com/julius.kunambi"><img src="fbi.png" height="25" width="25" /></a><br>
 					<a href="https://www.twitter.com"><img src="tw.jpeg" height="25" width="25" /></a><br>
 					
 
-				  <p>EMAIL:<br><b>aboveaverage18@gmail.com</b></p>
+				  <p>EMAIL:<br><b>LandManagement@co.tz</b></p>
         
-		<p><b>PHONE NUMBER:</b><br>+255738590419<br>+255752822974<br></p>
+		<p><b>PHONE NUMBER:</b><br>+255687779959<br>+255715484074</p>
 			
 		</div>
-	
+		<h3><LOCATION</h3>
+			<p> LOCATION:<br>1147 Kivukoni Front<br>Ardhi Street<br>Dar es salaam<br>Tanzania</p>
 			<style>
 body{
-    background-image: url("9.jpg");
+    background-image: url("photo.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 1450px 1100px;
 }
 </style>
 
-<div id="footer">
-
-<h3><b><a href="home.php"> back to homepage</a></b></h3>
-
-</div>	      
+	      
 	
-
+<center><a href="index.html"> back to homepage</a></center>
 </body>
 </html>

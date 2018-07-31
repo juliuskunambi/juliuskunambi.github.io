@@ -5,7 +5,7 @@
 	.left{
 		width: 300px;
 		height:650px;
-		border: 1px white skyblue;
+		border: 1px skyblue;
 		
 		top: 10px;
 		left: 20px;
@@ -22,37 +22,36 @@
 	}
 	#footer{
 		padding-top: 550px;
-		padding-left:100px;
-		border-color: red;
+		padding-left:600px;
 	}
 </style>
 </head>
 <body>
-<hr color="gray" size="5">
+<hr color="orange" size="13">
 
 
 		
 	<div class="left">
-	<h1><b><u>About </b></u></h1>
-	<font style="Arial bold"></font><p><h4><b><font color="gray">BRAND VISION :</font></font> Provision of perfect and stylish clothes to both males and females, Adults and Youth <br>with<font color="gray"> <u>"the Awesome Look"</u></font> abiding law or motto</p><br></b></h4>
-<P><h4><b><font color="gray">BRAND MOTTO :<</font> <br>"The Awesome Look"</P><br></b></h4>
+	<h1><b><u>ABOUT US</b></u></h1>
+	<p>I am pleased to welcome you to the Land Management system (LMS) website, which serves as a key communication tool for our customers as well as prospective customers. The website contains information of interest to our users about LMS profile, projects available for sale and lease for all categories of low, middle and high income segments. </p><br>
+<P>The Ministry of Lands, Housing and Human Settlements Development has been mandated to administer land and human settlement in Tanzania. It provides various land related services to individuals and institutions in the country, and provides advice to government and the public on matters pertaining to human settlements development.</P><br>
 </div>
 
 <div class="right">
 	
-<img src="p.jpg" width="340" height="500">
+<img src="01.jpg" width="550" height="500">
 </div>
 <style>
 body{
-    background-image: url("9.jpg");
+    background-image: url("photo.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 1450px 1100px;
 }
 </style>
 
 <div id="footer">
 
-<h3><b><a href="home.php"> back to homepage</a></b></h3>
+<b><a href="index.html"> back to homepage</a></b>
 
 </div>
 
